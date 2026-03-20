@@ -28,24 +28,29 @@ It helps developers and QA teams reduce manual triaging effort and improve softw
 ## 🏗️ Tech Stack
 
 ### 🔹 Frontend
+
 - React / Next.js
 - Tailwind CSS
 - Framer Motion
 - Lucide Icons
 
 ### 🔹 Backend
+
 - Python
 - Django
 - Django REST Framework
 
 ### 🔹 Machine Learning
+
 - DistilBERT (HuggingFace Transformers)
 - PyTorch
 
 ### 🔹 Database
+
 - MySQL / SQLite
 
 ### 🔹 Tools
+
 - Git & GitHub
 - VS Code
 - Postman
@@ -102,6 +107,7 @@ npm run dev
 - Task: Bug classification
 
 ### Categories
+
 - UI
 - Functional
 - Performance
@@ -111,10 +117,10 @@ npm run dev
 
 ## 📊 Key Metrics (Estimated)
 
-| Metric | Value |
-|--------|------|
-| Accuracy | ~85% |
-| Triage Reduction | ~80% |
+| Metric              | Value   |
+| ------------------- | ------- |
+| Accuracy            | ~85%    |
+| Triage Reduction    | ~80%    |
 | Duplicate Detection | ~60–95% |
 
 ---
@@ -142,7 +148,7 @@ DATABASE_URL=your_database_url
 
 ## 👨‍💻 Author
 
-Akhil  
+Akhil Krishna R S
 MCA (2024–2026)
 
 ---
@@ -151,30 +157,34 @@ MCA (2024–2026)
 
 Educational use only.
 
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
+
 <p align="center">
   <img src="assets/home.png" width="800"/>
 </p>
 
 ### 📊 Dashboard
+
 <p align="center">
   <img src="assets/dashboard.png" width="800"/>
 </p>
 
 ### 📂 Projects View
+
 <p align="center">
   <img src="assets/projects.png" width="800"/>
 </p>
 
 ### 🐞 Bugs Dashboard
+
 <p align="center">
   <img src="assets/bugs.png" width="800"/>
 </p>
 
 ### 📈 Analytics
+
 <p align="center">
   <img src="assets/analytics.png" width="800"/>
 </p>
