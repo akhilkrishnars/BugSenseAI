@@ -1,0 +1,51 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ----------------------
+# Virtual Environments
+# ----------------------
+.env
+env/
+venv/
+myenv/
+qenv/
+
+# ----------------------
+# Django
+# ----------------------
+db.sqlite3
+*.log
+
+# Migrations (keep structure)
+*/migrations/*.py
+*/migrations/*.pyc
+!*/migrations/__init__.py
+
+# Media & static uploads
+media/
+
+# ----------------------
+# Project-specific
+# ----------------------
+# ML folder
+defects/ml/
+
+# Results folder at project root
+results/
+
+# Other folders you listed
+other/
+database/
+
+# ----------------------
+# OS / Editor
+# ----------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

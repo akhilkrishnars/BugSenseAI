@@ -1,0 +1,11 @@
+text,label,category
+Functional bug in QA — the audit log viewer truncates uploaded file names causing lookup failures when multiple concurrent sessions are active.,1,FUNCTIONAL
+"Business-logic failure — the settings panel freezes the workflow at step 3 of 5 when switching between user roles, impacting developers.",1,FUNCTIONAL
+Bug filed by security auditors: the order history section shows an unresponsive dropdown menu. First seen when the network connection is unstable in production.,0,UI
+Functional bug in development — the search results page freezes the workflow at step 3 of 5 after a third-party service timeout.,1,FUNCTIONAL
+SLO breach — the order history section increases bundle size by 2 MB due to unused dependencies after a user resets their password.,2,PERFORMANCE
+"The session manager does not validate redirect URLs, enabling open-redirect attacks when accessed via mobile devices, posing a high risk in pre-release.",3,SECURITY
+Visual regression: overlapping text and buttons observed on the authentication service by beta testers when the session token expires.,0,UI
+Load-test failure in development: the authentication service introduces a 3-second delay on every keystroke in search after an inactive period.,2,PERFORMANCE
+Defect reported by admin users: the login page returns stale cached data instead of live results after clearing browser cache in production.,1,FUNCTIONAL
+Load-test failure in production: the user profile page increases bundle size by 2 MB due to unused dependencies during high-traffic periods.,2,PERFORMANCE

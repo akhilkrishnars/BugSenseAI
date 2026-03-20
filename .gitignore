@@ -1,0 +1,87 @@
+# =========================
+# Python / Django (Backend)
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+.env
+.env.*
+venv/
+env/
+myenv/
+qenv/
+
+# Django
+db.sqlite3
+
+# Migrations (keep structure but ignore generated files)
+*/migrations/*.py
+*/migrations/*.pyc
+!*/migrations/__init__.py
+
+# Media uploads
+media/
+
+# ML models / heavy files
+defects/ml/
+
+# Project results
+results/
+
+# Other backend folders
+other/
+database/
+
+# =========================
+# Node / React (Frontend)
+# =========================
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js / React builds
+.next/
+out/
+build/
+
+# Coverage
+coverage/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# =========================
+# Environment files
+# =========================
+.env*
+!.env.example
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Misc
+# =========================
+*.pem
+.vercel

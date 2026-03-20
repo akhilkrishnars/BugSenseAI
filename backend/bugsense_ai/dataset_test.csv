@@ -1,0 +1,321 @@
+text,label
+security problem maybe,3
+login not secure sometimes,3
+lags badly,2
+performance is terrible for some users,2
+login not secure randomly,3
+freezes sometimes for some users,2
+freezes sometimes sometimes,2
+something fishy with auth sometimes,3
+screen looks weird for some users,0
+flow doesn’t complete,1
+visuals broken in production,0
+screen looks weird,0
+login not working randomly,1
+freezes sometimes after update,2
+freezes sometimes,2
+anyone can access,3
+something wrong with the page sometimes,0
+can’t submit form,1
+data feels unsafe for some users,3
+screen looks weird,0
+something wrong with the page in production,0
+layout is off for some users,0
+lags badly,2
+app feels slow,2
+anyone can access,3
+something wrong with the page randomly,0
+performance is terrible sometimes,2
+action fails after update,1
+visuals broken,0
+ui messed up sometimes,0
+data feels unsafe for some users,3
+flow doesn’t complete in production,1
+flow doesn’t complete randomly,1
+app feels slow sometimes,2
+layout is off sometimes,0
+ui messed up randomly,0
+action fails in production,1
+login not working randomly,1
+something fishy with auth in production,3
+feature broken in production,1
+login not secure in production,3
+freezes sometimes for some users,2
+anyone can access,3
+login not working after update,1
+lags badly,2
+something fishy with auth sometimes,3
+login not working after update,1
+something fishy with auth sometimes,3
+feature broken randomly,1
+action fails after update,1
+freezes sometimes for some users,2
+app feels slow after update,2
+feature broken after update,1
+data feels unsafe in production,3
+security problem maybe after update,3
+layout is off after update,0
+login not working after update,1
+flow doesn’t complete sometimes,1
+security problem maybe after update,3
+lags badly randomly,2
+visuals broken sometimes,0
+freezes sometimes sometimes,2
+login not secure in production,3
+something fishy with auth for some users,3
+feature broken in production,1
+layout is off for some users,0
+can’t submit form randomly,1
+freezes sometimes,2
+ui messed up for some users,0
+visuals broken,0
+ui messed up in production,0
+something wrong with the page,0
+takes forever for some users,2
+something fishy with auth for some users,3
+something fishy with auth,3
+screen looks weird after update,0
+security problem maybe,3
+screen looks weird randomly,0
+feature broken randomly,1
+screen looks weird,0
+can’t submit form sometimes,1
+ui messed up randomly,0
+data feels unsafe after update,3
+layout is off for some users,0
+anyone can access sometimes,3
+ui messed up after update,0
+can’t submit form,1
+takes forever for some users,2
+flow doesn’t complete randomly,1
+takes forever after update,2
+lags badly,2
+can’t submit form,1
+something wrong with the page in production,0
+freezes sometimes,2
+action fails sometimes,1
+data feels unsafe in production,3
+login not secure sometimes,3
+takes forever sometimes,2
+feature broken for some users,1
+can’t submit form sometimes,1
+layout is off for some users,0
+login not working randomly,1
+layout is off sometimes,0
+login not secure,3
+performance is terrible for some users,2
+something wrong with the page sometimes,0
+freezes sometimes,2
+app feels slow randomly,2
+app feels slow randomly,2
+feature broken for some users,1
+lags badly in production,2
+performance is terrible in production,2
+anyone can access sometimes,3
+flow doesn’t complete sometimes,1
+lags badly after update,2
+feature broken for some users,1
+visuals broken in production,0
+freezes sometimes in production,2
+security problem maybe after update,3
+layout is off randomly,0
+app feels slow for some users,2
+anyone can access sometimes,3
+login not working sometimes,1
+ui messed up in production,0
+data feels unsafe after update,3
+something wrong with the page for some users,0
+layout is off randomly,0
+performance is terrible for some users,2
+layout is off randomly,0
+can’t submit form in production,1
+layout is off,0
+visuals broken,0
+app feels slow sometimes,2
+feature broken,1
+action fails in production,1
+something wrong with the page after update,0
+screen looks weird,0
+feature broken,1
+login not secure randomly,3
+ui messed up after update,0
+security problem maybe after update,3
+flow doesn’t complete,1
+login not working in production,1
+data feels unsafe sometimes,3
+login not secure,3
+flow doesn’t complete in production,1
+screen looks weird,0
+action fails,1
+flow doesn’t complete for some users,1
+login not secure for some users,3
+app feels slow for some users,2
+performance is terrible in production,2
+action fails for some users,1
+something fishy with auth in production,3
+performance is terrible in production,2
+screen looks weird,0
+anyone can access for some users,3
+app feels slow sometimes,2
+something wrong with the page for some users,0
+something wrong with the page for some users,0
+freezes sometimes randomly,2
+screen looks weird after update,0
+login not secure sometimes,3
+action fails for some users,1
+data feels unsafe sometimes,3
+ui messed up sometimes,0
+flow doesn’t complete,1
+login not secure,3
+screen looks weird randomly,0
+lags badly sometimes,2
+something wrong with the page in production,0
+app feels slow sometimes,2
+performance is terrible in production,2
+screen looks weird randomly,0
+freezes sometimes after update,2
+performance is terrible in production,2
+security problem maybe in production,3
+login not secure sometimes,3
+screen looks weird sometimes,0
+layout is off in production,0
+ui messed up sometimes,0
+app feels slow,2
+takes forever sometimes,2
+something wrong with the page after update,0
+ui messed up,0
+ui messed up sometimes,0
+freezes sometimes sometimes,2
+login not working in production,1
+lags badly for some users,2
+feature broken in production,1
+login not secure for some users,3
+takes forever after update,2
+security problem maybe sometimes,3
+something fishy with auth in production,3
+something wrong with the page,0
+login not secure,3
+login not secure in production,3
+anyone can access after update,3
+something wrong with the page after update,0
+login not working after update,1
+layout is off,0
+action fails in production,1
+login not secure after update,3
+login not secure,3
+login not working sometimes,1
+login not secure sometimes,3
+app feels slow after update,2
+freezes sometimes in production,2
+feature broken,1
+lags badly after update,2
+security problem maybe,3
+security problem maybe sometimes,3
+takes forever randomly,2
+screen looks weird randomly,0
+login not secure sometimes,3
+login not working in production,1
+login not working in production,1
+action fails randomly,1
+flow doesn’t complete,1
+performance is terrible after update,2
+anyone can access sometimes,3
+lags badly randomly,2
+flow doesn’t complete,1
+action fails randomly,1
+visuals broken sometimes,0
+app feels slow for some users,2
+login not secure,3
+app feels slow sometimes,2
+takes forever in production,2
+something wrong with the page after update,0
+security problem maybe for some users,3
+login not working after update,1
+flow doesn’t complete sometimes,1
+performance is terrible,2
+something wrong with the page randomly,0
+lags badly after update,2
+security problem maybe sometimes,3
+something wrong with the page sometimes,0
+can’t submit form for some users,1
+action fails randomly,1
+app feels slow randomly,2
+app feels slow randomly,2
+performance is terrible in production,2
+anyone can access after update,3
+data feels unsafe,3
+feature broken,1
+freezes sometimes randomly,2
+screen looks weird sometimes,0
+something wrong with the page after update,0
+ui messed up in production,0
+something fishy with auth in production,3
+login not secure randomly,3
+screen looks weird sometimes,0
+takes forever in production,2
+performance is terrible in production,2
+login not working after update,1
+anyone can access for some users,3
+app feels slow for some users,2
+ui messed up in production,0
+layout is off sometimes,0
+flow doesn’t complete randomly,1
+can’t submit form in production,1
+login not secure after update,3
+app feels slow after update,2
+data feels unsafe in production,3
+login not working for some users,1
+anyone can access in production,3
+screen looks weird for some users,0
+security problem maybe for some users,3
+feature broken in production,1
+ui messed up after update,0
+feature broken for some users,1
+performance is terrible sometimes,2
+performance is terrible sometimes,2
+action fails in production,1
+can’t submit form sometimes,1
+ui messed up randomly,0
+app feels slow sometimes,2
+layout is off after update,0
+performance is terrible,2
+flow doesn’t complete sometimes,1
+performance is terrible,2
+login not secure in production,3
+flow doesn’t complete sometimes,1
+can’t submit form sometimes,1
+layout is off after update,0
+freezes sometimes for some users,2
+login not working after update,1
+login not secure for some users,3
+performance is terrible sometimes,2
+visuals broken sometimes,0
+data feels unsafe for some users,3
+performance is terrible after update,2
+login not secure for some users,3
+login not working in production,1
+screen looks weird sometimes,0
+anyone can access sometimes,3
+something wrong with the page sometimes,0
+anyone can access in production,3
+anyone can access for some users,3
+something fishy with auth,3
+security problem maybe in production,3
+lags badly sometimes,2
+flow doesn’t complete,1
+flow doesn’t complete sometimes,1
+anyone can access sometimes,3
+flow doesn’t complete randomly,1
+feature broken,1
+ui messed up after update,0
+flow doesn’t complete for some users,1
+can’t submit form after update,1
+screen looks weird for some users,0
+anyone can access for some users,3
+ui messed up for some users,0
+can’t submit form for some users,1
+something fishy with auth randomly,3
+performance is terrible after update,2
+performance is terrible,2
+anyone can access,3
+app feels slow randomly,2
