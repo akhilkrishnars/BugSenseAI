@@ -150,3 +150,31 @@ MCA (2024–2026)
 ## 📜 License
 
 Educational use only.
+
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+<p align="center">
+  <img src="assets/home.png" width="800"/>
+</p>
+
+### 📊 Dashboard
+<p align="center">
+  <img src="assets/dashboard.png" width="800"/>
+</p>
+
+### 📂 Projects View
+<p align="center">
+  <img src="assets/projects.png" width="800"/>
+</p>
+
+### 🐞 Bugs Dashboard
+<p align="center">
+  <img src="assets/bugs.png" width="800"/>
+</p>
+
+### 📈 Analytics
+<p align="center">
+  <img src="assets/analytics.png" width="800"/>
+</p>
