@@ -57,7 +57,7 @@ import { useBugDetails } from "@/services/api";
 import { toast } from "react-hot-toast";
 
 
-type BugStatus = "OPEN" | "IN_PROGRESS" | "RESOLVED" | "CLOSED";
+type BugStatus = "OPEN" | "IN_PROGRESS" | "RESOLVED" | "CLOSED"; 
 type BugPriority = "critical" | "high" | "medium" | "low";
 type BugSeverity = "CRITICAL" | "HIGH" | "MEDIUM" | "LOW";
 
