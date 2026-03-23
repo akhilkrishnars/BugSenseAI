@@ -42,7 +42,7 @@ export default function HomePage() {
   const stats = [
     { value: "80%", label: "Faster Triage" },
     { value: "85%", label: "Accuracy Rate" },
-    { value: "60%", label: "Fewer Duplicates" },
+    { value: "80%", label: "Fewer Duplicates" },
     { value: "24/7", label: "AI Monitoring" },
   ];
 
@@ -89,7 +89,8 @@ export default function HomePage() {
               Automatically categorize, prioritize, severity predicted and
               analyse reports using advanced NLP and machine learning. Reduce
               manual triaging time by 80% and improve software quality with
-              intelligent duplicate detection system.
+              intelligent duplicate detection system.Including a user-friendly explaination of 
+              how the AI model works and why it gives this confidence.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
